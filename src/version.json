@@ -1,0 +1,246 @@
+{
+    "2440": {
+        "DM Framework": {
+            "product_id": "692",
+            "branch": "DEVICE_MGMT_FRAMEWORK_2409_4_NL_BRANCH",
+            "isHaving": "true"
+        },
+        "DC CLIENT": {
+            "product_id": "2399",
+            "branch": "DC_CLIENT_13_0_0_NL_BRANCH",
+            "isHaving": "true"
+        },
+        "DCNATIVE": {
+            "product_id": "1871",
+            "branch": "DC_NATIVE_11_3_2440_1_NL_BRANCH",
+            "isHaving": "true"
+        },
+        "DC Core": {
+            "product_id": "4627",
+            "branch": "DC_CORE_FRAMEWORK_11_3_2440_1_NL_BRANCH",
+            "isHaving": "true"
+        },
+        "EC FRAMEWORK": {
+            "product_id": "4628",
+            "branch": "ENDPOINT_CTRL_FRAMEWORK_11_3_2440_1_NL_BRANCH",
+            "isHaving": "true"
+        },
+        "DC": {
+            "product_id": "686",
+            "branch": "DESKTOPCENTRAL_11_3_2440_1_NL_BRANCH",
+            "isHaving": "true"
+        },
+        "DC Duplicate": {
+            "product_id": null,
+            "branch": "DESKTOPCENTRAL_11_3_2440_1_NL_BRANCH",
+            "isHaving": "false"
+        },
+        "SS": {
+            "product_id": null,
+            "branch": "SS_FRAMEWORK_2409_4_NL_BRANCH",
+            "isHaving": "false"
+        },
+        "EC cloud": {
+            "product_id": "1359",
+            "branch": "DC_CLOUD_11_3_2440_1_NL_BRANCH",
+            "isHaving": "true"
+        },
+        "Agent FW": {
+            "product_id": "4285",
+            "branch": "ME_AGENT_FRAMEWORK_11_3_2440_1_NL_BRANCH",
+            "isHaving": "true"
+        },
+        "SIEM": {
+            "product_id": null,
+            "branch": "SIEM_11_3_2440_1_NL_BRANCH",
+            "isHaving": "false"
+        },
+        "DLP": {
+            "product_id": "5334",
+            "branch": "ENDPOINT_DLP_11_3_2440_1_NL_BRANCH",
+            "isHaving": "true"
+        },
+        "BLM": {
+            "product_id": "5494",
+            "branch": "BITLOCKER_MANAGEMENT_11_3_2440_1_NL_BRANCH",
+            "isHaving": "true"
+        },
+        "DCP": {
+            "product_id": "5931",
+            "branch": "DEVICE_CONTROL_11_3_2440_1_NL_BRANCH",
+            "isHaving": "true"
+        }
+    },
+    "2428": {
+            "DM Framework": {
+                "product_id": "692",
+                "branch": "DEVICE_MGMT_FRAMEWORK_2407_2_NL_BRANCH",
+                "isHaving": "true"
+            },
+            "DC CLIENT": {
+                "product_id": "2399",
+                "branch": "DC_CLIENT_12_0_0_NL_BRANCH",
+                "isHaving": "true"
+            },
+            "DCNATIVE": {
+                "product_id": "1871",
+                "branch": "DC_NATIVE_11_3_2428_2_NL_BRANCH",
+                "isHaving": "true"
+            },
+            "DC Core": {
+                "product_id": "4627",
+                "branch": "DC_CORE_FRAMEWORK_11_3_2428_2_NL_BRANCH",
+                "isHaving": "true"
+            },
+            "EC FRAMEWORK": {
+                "product_id": "4628",
+                "branch": "ENDPOINT_CTRL_FRAMEWORK_11_3_2428_2_NL_BRANCH",
+                "isHaving": "true"
+            },
+            "DC": {
+                "product_id": "686",
+                "branch": "DESKTOPCENTRAL_11_3_2428_2_NL_BRANCH",
+                "isHaving": "true"
+            },
+            "SS": {
+                "product_id": null,
+                "branch": "SS_FRAMEWORK_2407_2_NL_BRANCH",
+                "isHaving": "false"
+            },
+            "OSD": {
+                "product_id": null,
+                "branch": "OS_DEPLOYER_1_2_2426_1_DC_11_3_2428_2_NL_BRANCH",
+                "isHaving": "false"
+            },
+            "EC cloud": {
+                "product_id": "1359",
+                "branch": "DC_CLOUD_11_3_2428_2_NL_BRANCH",
+                "isHaving": "true"
+            },
+            "FW cloud": {
+                "product_id": "1359",
+                "branch": "DC_CLOUD_11_3_2428_2_NL_BRANCH",
+                "isHaving": "true"
+            },
+            "Agent FW": {
+                "product_id": "4285",
+                "branch": "ME_AGENT_FRAMEWORK_11_3_2428_2_NL_BRANCH",
+                "isHaving": "true"
+            },
+            "SIEM": {
+                "product_id": null,
+                "branch": "SIEM_11_3_2428_2_NL_BRANCH",
+                "isHaving": "false"
+            },
+            "DLP": {
+                "product_id": "5334",
+                "branch": "ENDPOINT_DLP_11_3_2428_2_NL_BRANCH",
+                "isHaving": "true"
+            },
+            "BLM": {
+                "product_id": "5494",
+                "branch": "BITLOCKER_MANAGEMENT_11_3_2428_2_NL_BRANCH",
+                "isHaving": "true"
+            },
+            "DCP": {
+                "product_id": "5931",
+                "branch": "DEVICE_CONTROL_11_3_2428_2_NL_BRANCH",
+                "isHaving": "true"
+            },
+            "EMS Alert": {
+                "product_id": null,
+                "branch": "EMS_ALERTS_11_3_2428_2_NL_BRANCH",
+                "isHaving": "false"
+            }
+        },
+            "2416": {
+                "DM Framework": {
+                    "product_id": "692",
+                    "branch": "DEVICE_MGMT_FRAMEWORK_2404_3_NL_BRANCH",
+                    "isHaving": "true"
+                },
+                "DC CLIENT": {
+                    "product_id": "2399",
+                    "branch": "DC_CLIENT_10_18_0_NL_BRANCH",
+                    "isHaving": "true"
+                },
+                "DCNATIVE": {
+                    "product_id": "1871",
+                    "branch": "DC_NATIVE_11_3_2416_1_NL_BRANCH",
+                    "isHaving": "true"
+                },
+                "DC Core": {
+                    "product_id": "4627",
+                    "branch": "DC_CORE_FRAMEWORK_11_3_2416_2_NL_BRANCH",
+                    "isHaving": "true"
+                },
+                "EC FRAMEWORK": {
+                    "product_id": "4628",
+                    "branch": "ENDPOINT_CTRL_FRAMEWORK_11_3_2416_2_NL_BRANCH",
+                    "isHaving": "true"
+                },
+                "DC": {
+                    "product_id": "686",
+                    "branch": "DESKTOPCENTRAL_11_3_2416_2_NL_BRANCH",
+                    "isHaving": "true"
+                },
+                "SS": {
+                    "product_id": null,
+                    "branch": "SS_FRAMEWORK_2404_2_NL_BRANCH",
+                    "isHaving": "false"
+                },
+                "OSD": {
+                    "product_id": null,
+                    "branch": "OS_DEPLOYER_1_2_2413_1_DC_11_3_2416_1_NL_BRANCH",
+                    "isHaving": "false"
+                },
+                "EC cloud": {
+                    "product_id": null,
+                    "branch": "DC_CLOUD_11_3_2416_2_NL_BRANCH",
+                    "isHaving": "false"
+                },
+                "FW cloud": {
+                    "product_id": null,
+                    "branch": "DC_CLOUD_11_3_2416_2_NL_BRANCH",
+                    "isHaving": "false"
+                },
+                "Agent FW": {
+                    "product_id": "4285",
+                    "branch": "ME_AGENT_FRAMEWORK_11_3_2416_1_NL_BRANCH",
+                    "isHaving": "true"
+                },
+                "SIEM": {
+                    "product_id": null,
+                    "branch": "SIEM_11_3_2410_1_NL_BRANCH",
+                    "isHaving": "false"
+                },
+                "DLP": {
+                    "product_id": "5334",
+                    "branch": "ENDPOINT_DLP_11_3_2416_2_NL_BRANCH",
+                    "isHaving": "true"
+                },
+                "BLM": {
+                    "product_id": "5494",
+                    "branch": "BITLOCKER_MANAGEMENT_11_3_2416_2_NL_BRANCH",
+                    "isHaving": "true"
+                },
+                "DCP": {
+                    "product_id": "5931",
+                    "branch": "DEVICE_CONTROL_11_3_2416_2_NL_BRANCH",
+                    "isHaving": "true"
+                },
+                "Tool": {
+                    "product_id": null,
+                    "branch": "RAP_2_0_NL_BRANCH",
+                    "isHaving": "false"
+                },
+                "EMS Alerts": {
+                    "product_id": null,
+                    "branch": "EMS_ALERTS_11_3_2412_1_NL_BRANCH",
+                    "isHaving": "false"
+                }
+            }
+        
+    
+    
+}
