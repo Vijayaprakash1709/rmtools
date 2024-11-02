@@ -30,6 +30,7 @@ export default function RMTool() {
   const [versionComponents, setVersionComponents] = useState([]);
   const [submissionResults, setSubmissionResults] = useState([]);
   const [loading, setLoading] = useState(false); // Loading state
+  const [result,setResult]=useState('');
 
   // Extract version keys from the JSON data
   const versionKeys = Object.keys(versions);
@@ -131,6 +132,7 @@ export default function RMTool() {
           
               const data = await response.json();
               console.log("Response",data); // Handle the response data
+              setResult("Build Unlocked Sucessfully");
             } catch (error) {
               console.error('Error fetching unlock build:', error.message);
             }
@@ -222,7 +224,7 @@ export default function RMTool() {
             Submit
           </Button>
         </Box>
-
+        <Typography variant="h6" sx={{ marginTop: '20px' }}> {result} </Typography>
         {/* Loading Indicator */}
         {loading && (
           <Box sx={{ marginTop: '20px' }}>
